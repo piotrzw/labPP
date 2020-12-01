@@ -287,3 +287,4 @@ void wypelnij_talie(karta *talia, int parametry[], int wartosci[])
         break;
     }
 }
+// git test asd
